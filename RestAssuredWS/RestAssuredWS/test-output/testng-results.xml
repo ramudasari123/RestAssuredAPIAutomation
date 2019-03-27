@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[response  : {"id":"59bb9d05369107000792c7a3"}]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1530" started-at="2017-09-15T09:27:26Z" finished-at="2017-09-15T09:27:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1530" started-at="2017-09-15T09:27:26Z" finished-at="2017-09-15T09:27:28Z">
+      <class name="com.automation.test.PlaceAnOrder">
+        <test-method status="PASS" signature="getBaseURL()[pri:0, instance:com.automation.test.PlaceAnOrder@5d5eef3d]" name="getBaseURL" is-config="true" duration-ms="327" started-at="2017-09-15T14:57:26Z" finished-at="2017-09-15T14:57:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBaseURL -->
+        <test-method status="PASS" signature="placeOrder()[pri:0, instance:com.automation.test.PlaceAnOrder@5d5eef3d]" name="placeOrder" duration-ms="1203" started-at="2017-09-15T14:57:27Z" finished-at="2017-09-15T14:57:28Z">
+          <reporter-output>
+            <line>
+              <![CDATA[response  : {"id":"59bb9d05369107000792c7a3"}]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- placeOrder -->
+      </class> <!-- com.automation.test.PlaceAnOrder -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

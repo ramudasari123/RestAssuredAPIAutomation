@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3032" started-at="2017-09-17T09:50:49Z" finished-at="2017-09-17T09:50:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3032" started-at="2017-09-17T09:50:49Z" finished-at="2017-09-17T09:50:52Z">
+      <class name="com.test.microservices.TestShoppingSite">
+        <test-method status="PASS" signature="getBaseURi()[pri:0, instance:com.test.microservices.TestShoppingSite@5419f379]" name="getBaseURi" is-config="true" duration-ms="359" started-at="2017-09-17T15:20:49Z" finished-at="2017-09-17T15:20:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBaseURi -->
+        <test-method status="PASS" signature="PlaceAnOrderWithMultipleItem()[pri:0, instance:com.test.microservices.TestShoppingSite@5419f379]" name="PlaceAnOrderWithMultipleItem" duration-ms="2654" started-at="2017-09-17T15:20:49Z" finished-at="2017-09-17T15:20:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PlaceAnOrderWithMultipleItem -->
+      </class> <!-- com.test.microservices.TestShoppingSite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
